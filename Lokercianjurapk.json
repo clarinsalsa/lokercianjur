@@ -1,0 +1,25 @@
+{
+	"Ads": [{
+		"home_page": "https://www.karircianjur.com/",
+		"admob_inter": "ca-app-pub-3940256099942544/1033173712",
+		"admob_banner": "ca-app-pub-3940256099942544/6300978111",
+		"app_online": true,
+		"link_redirect": "https://www.karircianjur.com/",
+		"menu": [{
+				"caption": "About",
+				"icon": "https://barayaadhirajasa.id/is/SC/icon_menu.png",
+				"link": "https://www.lokersukabumi.com/p/about.html"
+			},
+			{
+				"caption": "Via Email",
+				"icon": "https://barayaadhirajasa.id/is/SC/icon_menu.png",
+				"link": "https://www.lokersukabumi.com"
+			},
+			{
+				"caption": "SMA/SMK",
+				"icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCV1_shNBC2xN2U1Cx3nryLZOvpAMruDwXBJCqPZySExcut4HHRsc2C5HjhmgCY5NikGgyDNQbTARO0SD_9JuidvbmL0gm5m1XncS_BniyRQdpmkb0tIosshXCYQ_wAUZIQajg153oAl6rXlKTaxmG7OCnpmUQKLtf08rOFSfKitkFXHhO6FLueDdr/s960/icon_menu.png",
+				"link": "https://t.me/lokersukabumi"
+			}
+		]
+	}]
+}
